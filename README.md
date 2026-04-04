@@ -23,7 +23,7 @@ Built with Python, secured by AES (Fernet) encryption, and styled with `rich`.
 ### Option 1: Automatic Install (Windows)
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/APIKeyVault.git](https://github.com/yourusername/APIKeyVault.git)
+   git clone https://github.com/ardaryusz/APIKeyVault.git
    cd APIKeyVault
    ```
 2. Double-click the `setup.bat` file.
@@ -32,7 +32,7 @@ Built with Python, secured by AES (Fernet) encryption, and styled with `rich`.
 ### Option 2: Manual Install (Mac/Linux/Windows)
 1. Clone this repository and navigate into the folder:
    ```bash
-   git clone [https://github.com/yourusername/APIKeyVault.git](https://github.com/yourusername/APIKeyVault.git)
+   git clone https://github.com/ardaryusz/APIKeyVault.git
    cd APIKeyVault
    ```
 2. Run the pip install command:
