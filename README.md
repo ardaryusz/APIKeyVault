@@ -25,15 +25,14 @@ Built with Python, secured by AES (Fernet) encryption, and styled with `rich`.
    ```bash
    git clone https://github.com/ardaryusz/APIKeyVault.git
    cd APIKeyVault
+   start setup.bat
    ```
-2. Double-click the `setup.bat` file.
-3. Select **Option 1** to automatically install the requirements and register the command.
+2. Select **Option 1** to automatically install the requirements and register the command.
 
 ### Option 2: Manual Install (Mac/Linux/Windows)
 1. Clone this repository and navigate into the folder:
    ```bash
    git clone https://github.com/ardaryusz/APIKeyVault.git
-   cd APIKeyVault
    ```
 2. Run the pip install command:
    ```bash
